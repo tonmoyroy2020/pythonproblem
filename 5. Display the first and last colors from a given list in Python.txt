@@ -1,0 +1,3 @@
+
+colors = ["Black", "Blue" , "Pink", "Red", "Green"]
+print(colors[0], colors[-1])
